@@ -1,30 +1,24 @@
-<html> 
-<head> 
-<body bgcolor="purple"> 
- 
-<title>Login paget</title> 
-</head> 
-<script type="text/javascript"> 
-function display(form){ 
-if (form.username.value=="adina") {  
-  if (form.password.value=="123456") {               
-          location="portfolio.php"  
-           } else { 
-             alert("Invalid Password") 
-             } 
-        } else {  alert("Invalid Username") 
-          } 
-      } 
-   </script>    
-<body > 
-<center> 
- <h1> 
-<form > 
-<input type="text" name="username" /><br><br> 
-<input type="password" name="password"/><br><br> 
-<input type="button" value="Login" onClick="display(this.form)"/> 
-<center> 
-<h1> 
-</form> 
-©️ 2021 GitHub, Inc. 
-Terms
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Adina</title>
+  <link rel="stylesheet"  href="css/main.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+<div class="WholePort">
+  <img src="https://i.pinimg.com/originals/35/cc/60/35cc6077af03da9d88bf14d5de6004f5.jpg" alt="">
+  <p>Hi, I'm Adina Abdullaeva and I was born in Bishkek 23.01.2004.<br>I like watch anime and eat sushi and also
+    chilling with my friend
+  </p>
+
+</div>
+<div class="Icons">
+  <a href="#" class="fa fa-facebook"></a>
+  <a href="#" class="fa fa-twitter"></a>
+  <a href="#" class="fa fa-instagram"></a>
+</div>
+
+
+</body>
+</html>
