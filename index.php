@@ -8,7 +8,7 @@
 function display(form){ 
 if (form.username.value=="adina") {  
   if (form.password.value=="123456") {               
-          location="index.php"  
+          location="portfolio.php"  
            } else { 
              alert("Invalid Password") 
              } 
