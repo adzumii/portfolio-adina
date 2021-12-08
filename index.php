@@ -8,8 +8,7 @@
 <body>
 <div class="WholePort">
   <img src="https://i.pinimg.com/originals/35/cc/60/35cc6077af03da9d88bf14d5de6004f5.jpg" alt="">
-  <p>Hi, I'm Adina Abdullaeva and I was born in Bishkek 23.01.2004.<br>I like watch anime and eat sushi and also
-    chilling with my friend
+  <p>Hi, I'm Adina Abdullaeva!!!
   </p>
 
 </div>
